@@ -1,5 +1,6 @@
 package com.WEEC.x00002912;
-
+//William Escalante - 00002912
+//Daniel Ramos - 00207819
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -7,6 +8,7 @@ public class Main {
     static Scanner scan = new Scanner(System.in);
 
     public static void main(String[] args) {
+
         Empresa unaEmpresa = new Empresa("Daliam");
         String nombreEmpleado, puestoEmpleado;
         double salarioEmpleado;
